@@ -3,15 +3,13 @@ package methods;
 //Methods are used to define the behavior of an object.
 //Two types of methods ->
 //1. Accessors or getter methods : used to read the variables and return the value
-//		-> named with 'get' prefix, ex. : public int getValue()
+//				 -> named with 'get' prefix, ex. : public int getValue()
 //2. Mutators or setter methods : used to read and modify values, returns nothing. 
-//		-> named with 'set' prefix, has parameters, ex. : public void setValue(int i)
+//				-> named with 'set' prefix, has parameters, ex. : public void setValue(int i)
 
 //Method parameters can be of two types ->
-//1. Actual Parameter : They are the values that are passed to the function when
-//						it is invoked. They are passed by the calling function. 
-//2. Formal Parameter :	The Formal Parameters are the variables defined by the 
-//						function that receives values when it is called.
+//1. Actual Parameter : They are the values that are passed to the function when it is invoked. They are passed by the calling function. 
+//2. Formal Parameter :	The Formal Parameters are the variables defined by the function that receives values when it is called.
 
 
 public class Method_Usage {
